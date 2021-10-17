@@ -1,0 +1,100 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(29, 29, 29);
+    padding: 15%;
+    font-size: 20px;
+    color: rgb(255, 218, 218);
+    text-align: center;
+    -webkit-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+    -moz-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+    -o-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+    -ms-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+p {
+    text-decoration: none;
+    line-height: 0.3;
+}
+
+i {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.heading {
+    font-size: 50px;
+}
+
+.p2 {
+    padding-top: 1%;
+    -webkit-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+    -moz-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+    -o-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+    -ms-animation: fadeIn linear 1.5s;
+    animation: fadeIn linear 1.5s;
+}
+
+.main {
+    padding-top: 5%;
+}
